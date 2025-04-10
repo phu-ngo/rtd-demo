@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SAIGONESE MDM ORG'
+copyright = '2025, SAIGONESE'
+author = 'Phu'
 
 release = '0.1'
 version = '0.1.0'
