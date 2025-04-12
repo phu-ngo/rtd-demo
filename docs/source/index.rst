@@ -4,7 +4,7 @@ Welcome to Our IT Engineering Hub
 About
 -----
 
-Welcome to our open-source MDM (Mobile Device Management) documentation website — a growing hub of curated **news**, **best practices**, and **technical guidance** to help IT professionals and teams stay ahead in device management.
+Welcome to our open-source IT Engineering (Mobile Device Management) documentation website — a growing hub of curated **news**, **best practices**, and **technical guidance** to help IT professionals and teams stay ahead in device management.
 
 Whether you're managing a small fleet or supporting a growing remote team, this site is designed to support you with real-world solutions, how-to instructions, and community-powered insights.
 
