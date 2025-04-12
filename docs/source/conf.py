@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'SAIGONESE MDM ORG'
+project = 'IT Engineering'
 copyright = '2025, SAIGONESE'
 author = 'Phu'
 
