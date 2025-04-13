@@ -13,7 +13,7 @@ Platform Focus
 
 We specialize in profile configuration and management for:
 
-- **Windows 11**
+- **Windows**
 - **macOS**
 
 Our goal is to simplify deployment, enforce policies effectively, and ensure seamless device management across these platforms.
@@ -30,10 +30,8 @@ Explore Topics
 --------------
 
 - `Getting Started Guides <getting-started.html>`_
-- `Platform-Specific Configurations <platforms/index.html>`_
-- `Best Practices <best-practices/index.html>`_
-- `News & Updates <news/index.html>`_
-- `Contribute to the Docs <contribute.html>`_
+- `Intune Configurations <intune/index.html>`_
+- `Jamf Configurations <jamf/index.html>`_
 
 ---
 
