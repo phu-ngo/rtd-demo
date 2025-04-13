@@ -36,7 +36,7 @@ epub_show_urls = 'footnote'
 
 # -- Localization configuration
 
-locale_dirs = ['locale/']  # Path to translation files
+locale_dirs = ['locales/']  # Path to translation files
 gettext_compact = False  # Use separate .po files for each document
 
 # -- Language configuration
