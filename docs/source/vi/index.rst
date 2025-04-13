@@ -1,21 +1,38 @@
-Trang Chủ Endpoint Engineering
+Chào mừng bạn đến với Endpoint Engineering
 =============================
 
 Giới Thiệu
 ----------
 
-Chào mừng bạn đến với **Endpoint Engineering**, một trung tâm tài liệu mã nguồn mở dành riêng cho cộng đồng Endpoint Engineering. Nhiệm vụ của chúng tôi là cung cấp các giải pháp thực tế, hướng dẫn từng bước và thông tin chi tiết hữu ích cho các chuyên gia CNTT quản lý thiết bị hiện đại.
+**Endpoint Engineering** là một dự án mã nguồn mở, cung cấp các giải pháp thực tế và hướng dẫn chi tiết cho việc quản lý thiết bị hiện đại. Chúng tôi tập trung vào việc hỗ trợ cộng đồng IT trong việc triển khai và quản lý thiết bị một cách hiệu quả.
 
-Chúng tôi tập trung vào cấu hình hồ sơ và quản lý cho:
+Dù bạn đang quản lý một nhóm nhỏ hay triển khai chính sách ở quy mô lớn, tài liệu này sẽ là nguồn tham khảo đáng tin cậy.
 
-- **Windows 11**
+Nền Tảng Hỗ Trợ
+----------------
+
+Chúng tôi hỗ trợ cấu hình và quản lý trên các nền tảng:
+
+- **Windows**
 - **macOS**
 
-Khám phá các tài liệu chuyên sâu và thực hành tốt nhất cho các công cụ hàng đầu như:
+Mục tiêu của chúng tôi là giúp bạn triển khai nhanh chóng, thực thi chính sách hiệu quả và quản lý thiết bị dễ dàng.
 
-- **Microsoft Intune**
-- **Jamf**
+Công Cụ Hỗ Trợ
+--------------
+
+Tài liệu chuyên sâu về các công cụ hàng đầu:
+
+- **Microsoft Intune** – Quản lý thiết bị Windows 11 và macOS dựa trên đám mây.
+- **Jamf** – Giải pháp quản lý và bảo mật thiết bị Apple đáng tin cậy.
+
+Khám Phá Thêm
+-------------
+
+- `Hướng Dẫn Bắt Đầu <getting-started.html>`_
+- `Cấu Hình Intune <intune/index.html>`_
+- `Cấu Hình Jamf <jamf/index.html>`_
 
 ---
 
-Tham gia cùng chúng tôi để xây dựng một cơ sở kiến thức mở và hợp tác cho cộng đồng Endpoint Engineering.
+Tham gia cùng chúng tôi để xây dựng một cộng đồng chia sẻ kiến thức mở. Chúng tôi luôn chào đón các ý kiến đóng góp và phản hồi!
