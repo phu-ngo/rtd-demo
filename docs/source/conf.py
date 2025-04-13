@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'IT Engineering'
-copyright = '2025, SAIGONESE'
+project = 'Endpoint Engineering'
+copyright = '2025, EEP'
 author = 'Phu'
 
 release = '0.1'
