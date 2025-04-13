@@ -36,3 +36,11 @@ Khám Phá Thêm
 ---
 
 Tham gia cùng chúng tôi để xây dựng một cộng đồng chia sẻ kiến thức mở. Chúng tôi luôn chào đón các ý kiến đóng góp và phản hồi!
+
+.. toctree::
+    :caption: Getting started
+    :hidden:
+
+    getting-started
+    intune/index
+    jamf/index

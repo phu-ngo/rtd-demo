@@ -51,3 +51,8 @@ html_context = {
         ("TiengViet", "/vi/%s/", 'vi'),
     ],
 }
+# Customizing the theme options
+# This is where you can set theme-specific options
+html_theme_options = {
+    "page_layout": "default",
+}
