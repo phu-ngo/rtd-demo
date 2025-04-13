@@ -33,3 +33,21 @@ html_theme = "shibuya"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Localization configuration
+
+locale_dirs = ['locale/']  # Path to translation files
+gettext_compact = False  # Use separate .po files for each document
+
+# -- Language configuration
+
+language = 'en'  # Default language
+
+# -- Customization for multiple languages
+
+html_context = {
+    'languages': [
+        ('en', 'English'),
+        ('vi', 'Tiếng Việt'),
+    ],
+}
