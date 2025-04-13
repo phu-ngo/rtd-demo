@@ -36,3 +36,12 @@ Explore Topics
 ---
 
 Join us in building an open, collaborative knowledge base for the Endpoint Engineering community. Contributions, feedback, and pull requests are always welcome!
+
+
+.. toctree::
+    :caption: Getting started
+    :hidden:
+
+    getting-started
+    intune/index
+    jamf/index
