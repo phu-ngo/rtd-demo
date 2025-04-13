@@ -47,7 +47,7 @@ language = 'en'  # Default language
 
 html_context = {
     'languages': [
-        ('en', '/'),
-        ('vi', '/vi/%s'),
+        ("English", "/%s/", 'en'),
+        ("TiengViet", "/vi/%s/", 'vi'),
     ],
 }
