@@ -1,3 +1,2 @@
 sphinx==7.1.2
 shibuya
-sphinx-press-theme

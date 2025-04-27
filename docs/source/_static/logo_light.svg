@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Red Hat Display');
+    </style>
+  </defs>
+  <rect width="512" height="512" fill="#ffffef"/>
+  <rect x="50" y="50" width="412" height="412" fill="none" stroke="#113f67" stroke-width="50"/>
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" 
+        font-family="Red Hat Display" font-size="262" fill="#113f67" font-weight="bold">
+    EE
+  </text>
+</svg>

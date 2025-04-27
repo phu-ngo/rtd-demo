@@ -4,7 +4,7 @@
 
 project = 'Endpoint Engineering'
 copyright = '2025, EEP'
-author = 'Phu'
+author = 'Phu, Thien'
 
 release = '0.1'
 version = '0.1.0'
@@ -53,5 +53,54 @@ html_context = {
 # Customizing the theme options
 # This is where you can set theme-specific options
 html_theme_options = {
-    "page_layout": "default",
+    "logo_target": "/",
+    "light_logo": "_static/logo_light.svg",
+    "dark_logo": "_static/logo_dark.svg",
+
+    "og_image_url": "https://shibuya.lepture.com/icon.png",
+    "twitter_creator": "lepture",
+    "twitter_site": "lepture",
+
+    "discussion_url": "https://github.com/lepture/shibuya/discussions",
+    "twitter_url": "https://twitter.com/lepture",
+    "github_url": "https://github.com/lepture/shibuya",
+
+    "globaltoc_expand_depth": 1,
+    "nav_links": [
+        {
+            "title": "Platforms",
+            "url": "writing",
+            "children": [
+                {
+                    "title": "Admonitions",
+                    "url": "writing/admonition",
+                    "summary": "Bring the attention of readers",
+                },
+                {
+                    "title": "Code Blocks",
+                    "url": "writing/code",
+                    "summary": "Display code with highlights",
+                },
+                {
+                    "title": "Autodoc",
+                    "url": "writing/api",
+                    "summary": "API documentation automatically"
+                },
+                {
+                    "title": "Jupyter Notebook",
+                    "url": "extensions/nbsphinx",
+                    "summary": "Rendering .ipynb files"
+                },
+            ]
+        },
+        {
+            "title": "Branding",
+            "url": "branding",
+        },
+        {
+            "title": "Sponsor me",
+            "url": "https://github.com/sponsors/lepture",
+            "external": True,
+        },
+    ]
 }
