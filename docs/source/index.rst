@@ -42,6 +42,6 @@ Join us in building an open, collaborative knowledge base for the Endpoint Engin
     :caption: Getting started
     :hidden:
 
-    vi/getting-started
-    vi/intune/index
-    vi/jamf/index
+    getting-started
+    intune/index
+    jamf/index
