@@ -64,12 +64,12 @@ html_theme_options = {
             "children": [
                 {
                     "title": "Jamf MDM",
-                    "url": "jamf",
+                    "url": "jamf/",
                     "summary": "Management of Apple devices by Jamf",
                 },
                 {
                     "title": "Intune MDM",
-                    "url": "intune",
+                    "url": "intune/",
                     "summary": "Microsoft MDM solution",
                 },
             ]

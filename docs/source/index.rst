@@ -1,12 +1,12 @@
 :layout: landing
 :description: 
 
-Endpoint Engineering
+MDM Engineering
 =======
 
 .. rst-class:: lead
 
-    Welcome to **Endpoint Engineering**, an open-source documentation hub dedicated to empowering the Endpoint Engineering community. Our mission is to provide real-world solutions, step-by-step guides, and actionable insights for IT professionals managing modern devices.
+    Welcome to **MDM Engineering**, an open-source documentation hub dedicated to empowering the MDM Engineering community. Our mission is to provide real-world solutions, step-by-step guides, and actionable insights for IT professionals managing modern devices.
 
 Whether you're configuring profiles for a small team or deploying policies at scale, this site is your go-to resource for mastering device management with confidence.
 
@@ -14,7 +14,7 @@ Whether you're configuring profiles for a small team or deploying policies at sc
 
     `Intune </intune/>`_
     `Jamf </jamf/>`_
-    `GitHub <https://github.com/phu-ngo/rtd-demo>`_
+    `GitHub <https://github.com/MDM-Engineers/mdm-readthedoc>`_
 
 .. grid:: 1 1 2 3
     :gutter: 2
