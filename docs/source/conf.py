@@ -52,8 +52,9 @@ html_context = {
 }
 # Customizing the theme options
 # This is where you can set theme-specific options
+
 html_theme_options = {
-    
+    "accent_color": "blue",
     "github_url": "https://github.com/MDM-Engineers/mdm-readthedoc",
 
     "globaltoc_expand_depth": 1,
@@ -64,12 +65,12 @@ html_theme_options = {
             "children": [
                 {
                     "title": "Jamf MDM",
-                    "url": "jamf/",
+                    "url": "jamf/index",
                     "summary": "Management of Apple devices by Jamf",
                 },
                 {
                     "title": "Intune MDM",
-                    "url": "intune/",
+                    "url": "intune/index",
                     "summary": "Microsoft MDM solution",
                 },
             ]
