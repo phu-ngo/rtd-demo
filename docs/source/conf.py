@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Endpoint Engineering'
-copyright = '2025, EEP'
+project = 'MDM Engineering'
+copyright = '2025, MDM Engineers'
 author = 'Phu, Thien'
 
 release = '0.1'
@@ -53,17 +53,8 @@ html_context = {
 # Customizing the theme options
 # This is where you can set theme-specific options
 html_theme_options = {
-    "logo_target": "/",
-    "light_logo": "_static/logo_light.svg",
-    "dark_logo": "_static/logo_dark.svg",
-
-    "og_image_url": "https://shibuya.lepture.com/icon.png",
-    "twitter_creator": "lepture",
-    "twitter_site": "lepture",
-
-    "discussion_url": "https://github.com/lepture/shibuya/discussions",
-    "twitter_url": "https://twitter.com/lepture",
-    "github_url": "https://github.com/lepture/shibuya",
+    
+    "github_url": "https://github.com/MDM-Engineers/mdm-readthedoc",
 
     "globaltoc_expand_depth": 1,
     "nav_links": [
@@ -72,35 +63,16 @@ html_theme_options = {
             "url": "writing",
             "children": [
                 {
-                    "title": "Admonitions",
-                    "url": "writing/admonition",
-                    "summary": "Bring the attention of readers",
+                    "title": "Jamf MDM",
+                    "url": "jamf",
+                    "summary": "Management of Apple devices by Jamf",
                 },
                 {
-                    "title": "Code Blocks",
-                    "url": "writing/code",
-                    "summary": "Display code with highlights",
-                },
-                {
-                    "title": "Autodoc",
-                    "url": "writing/api",
-                    "summary": "API documentation automatically"
-                },
-                {
-                    "title": "Jupyter Notebook",
-                    "url": "extensions/nbsphinx",
-                    "summary": "Rendering .ipynb files"
+                    "title": "Intune MDM",
+                    "url": "intune",
+                    "summary": "Microsoft MDM solution",
                 },
             ]
-        },
-        {
-            "title": "Branding",
-            "url": "branding",
-        },
-        {
-            "title": "Sponsor me",
-            "url": "https://github.com/sponsors/lepture",
-            "external": True,
         },
     ]
 }
